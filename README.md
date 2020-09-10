@@ -25,9 +25,9 @@
 ### Processing-4
 ![image](https://github.com/Yi-Huaaa/Unity-Game-Building-Blocks/blob/master/Game%20scenarios/Game%20scenarios_2.png)
 ### Processing-5
-### as shown in this picture, there is no enough space to place the three existing blocks, so game over.
 ![image](https://github.com/Yi-Huaaa/Unity-Game-Building-Blocks/blob/master/Game%20scenarios/Game%20scenarios_5.png)
 
 
 ### Game Over
+As shown in this picture, there is no enough space to place the three existing blocks, so game over.
 ![image](https://github.com/Yi-Huaaa/Unity-Game-Building-Blocks/blob/master/Game%20scenarios/Game%20scenarios_gameover.png)
