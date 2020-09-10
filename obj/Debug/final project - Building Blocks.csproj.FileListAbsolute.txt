@@ -1,0 +1,14 @@
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\bin\Debug\final project - Building Blocks.exe.config
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\bin\Debug\final project - Building Blocks.exe
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\bin\Debug\final project - Building Blocks.pdb
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\obj\Debug\final project - Building Blocks.csprojResolveAssemblyReference.cache
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\obj\Debug\final project - Building Blocks.csproj.CoreCompileInputs.cache
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\obj\Debug\final project - Building Blocks.exe
+C:\Users\asce0\Desktop\final project - Building Blocks\final project - Building Blocks\obj\Debug\final project - Building Blocks.pdb
+C:\Users\Roger\Desktop\final project - Building Blocks\bin\Debug\final project - Building Blocks.exe.config
+C:\Users\Roger\Desktop\final project - Building Blocks\bin\Debug\final project - Building Blocks.exe
+C:\Users\Roger\Desktop\final project - Building Blocks\bin\Debug\final project - Building Blocks.pdb
+C:\Users\Roger\Desktop\final project - Building Blocks\obj\Debug\final project - Building Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\final project - Building Blocks\obj\Debug\final project - Building Blocks.exe
+C:\Users\Roger\Desktop\final project - Building Blocks\obj\Debug\final project - Building Blocks.pdb
+C:\Users\Roger\Desktop\final project - Building Blocks\obj\Debug\final project - Building Blocks.csprojAssemblyReference.cache
