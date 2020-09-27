@@ -1,6 +1,6 @@
 # Unity-Game-Building-Blocks
 
-## Intriduction
+## Introduction
 1. This is a game coded in the C# language, adopting "Unity" as the game engine.
 1. This game mimics the "1010!", a simple puzzle game that will challenge the users 'brains, which is a application of the google play.
 1. However, different from the "1010!" app on the google play, though the game with the same rules, the board of the construted game is "Hexagon", which will increase the difficulty of the game.
